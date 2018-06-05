@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "989869242732",
+    "firebase_url": "https://travelmate-923f9.firebaseio.com",
+    "project_id": "travelmate-923f9",
+    "storage_bucket": "travelmate-923f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989869242732:android:4eeb17c1cb35262d",
+        "android_client_info": {
+          "package_name": "com.mehedicr.tourmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989869242732-dppibo5p3jbo8nu80oqapjmnc1153d7j.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "989869242732-dppibo5p3jbo8nu80oqapjmnc1153d7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAODnj7dLoMchI0_ysaPWJyyBpuXV3bfkA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
